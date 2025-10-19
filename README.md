@@ -49,4 +49,4 @@ Steps:
 Result: 22
 
 ## that is all ! enjoy :)
-## Built with ❤️ by the Khanya Freddie
+## Built with ❤️ by me, Khanya Freddie
