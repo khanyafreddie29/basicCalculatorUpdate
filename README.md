@@ -33,10 +33,10 @@ A basic modern calculator built with vanilla JavaScript, HTML5, and CSS3. Featur
    cd basicCalculator
 
 ## Project Structure
-   fullstackProject/
-├── index.html          # Main HTML structure
-├── calculator.css      # Styles and responsive design
-└── calculator.js       # Calculator logic and functionality
+- fullstackProject/
+- ├── index.html          # Main HTML structure
+- ├── calculator.css      # Styles and responsive design
+- └── calculator.js       # Calculator logic and functionality
 
 ## 🎯 Usage
 Usage involves a basic input of arithmetic operations.
