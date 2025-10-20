@@ -29,7 +29,7 @@ A basic modern calculator built with vanilla JavaScript, HTML5, and CSS3. Featur
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/khanyafreddie29/fullstackProject.git
+   git clone https://github.com/khanyafreddie29/basicCalculatorUpdate.git
    cd basicCalculator
 
 ## Project Structure
